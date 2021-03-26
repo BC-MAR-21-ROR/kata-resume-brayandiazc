@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advanced beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -65,39 +65,45 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a person passionate about technology, I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently,
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Ruby on Rails Web Developer
+    university: Brightcoders Academy (Mexico)
+    time: 2021 March - current
     details: |
+      Expert in the use of the Ruby programming language and the Ruby On Rails framework creating monolithic applications and APIs, teamwork, good practices with Git and GitHub.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+        - Ruby
+        - Ruby On Rails
+        - API creation
+        - Git y GitHub
+        - Team Work
+
+  - degree: Software Developer
+    university: Ministry of Information Technology (Mintic) and northern University (Colombia)
+    time: 2021 April - current
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      Develop web and mobile projects using agile methodologies and Python and Java programming languages. Complemented the training with the learning of the English language.
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+        - Web development
+        - Mobile development
+        - Html, Css and Javascript
+        - Python and Django
+        - Java
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+  - degree: professional technician in construction project development
+    university: SENA (Colombia)
+    time: 2007 - 2008
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      Develop architectural projects from planning and execution, having knowledge in 2D and 3D development.
 
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+        - Preparation of plans
+        - Autocad 2D
+        - Sketchup 3D
+        - Vray Render
+        - Graphic Designer
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
