@@ -107,31 +107,11 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: CTO
+    time: 2018 - Present
+    company: Traitants (Colombia)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      My job is to develop the company's technological product, this includes backend and frontend
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -144,43 +124,43 @@ skills:
 
   toolset:
     - name: Html
-      level: 100%
+      level: 80%
 
     - name: Css
-      level: 60%
+      level: 40%
 
     - name: Javascript
-      level: 30%
+      level: 20%
 
     - name: Ruby
-      level: 40%
+      level: 20%
 
     - name: Ruby On Rails
       level: 40%
 
     - name: Heroku
-      level: 100%
+      level: 80%
 
     - name: AWS
-      level: 100%
+      level: 20%
 
     - name: Linux
       level: 40%
 
     - name: Autocad
-      level: 90%
+      level: 80%
 
     - name: Sketchup
       level: 100%
 
     - name: Vray
-      level: 100%
+      level: 80%
 
     - name: Inkscape
-      level: 40%
+      level: 100%
 
     - name: Gimp
-      level: 40%
+      level: 60%
 
 # NO MODIFICAR
 footer: >
