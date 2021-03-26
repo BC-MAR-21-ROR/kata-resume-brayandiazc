@@ -12,14 +12,14 @@ sidebar:
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: brayandiazc@gmail.com
+  phone: +57 3214037995
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  linkedin: https://www.linkedin.com/in/brayandiazc/
+  github: https://github.com/brayandiazc
+  gitlab: https://gitlab.com/brayandiazc
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@brayandiazc'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
