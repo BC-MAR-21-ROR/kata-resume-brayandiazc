@@ -37,7 +37,7 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 ## Datos de contacto
 
 1. Ubica el apartado `email` y completa todos los datos de contacto que quieras registrar.
-  
+
 ## Idiomas
 
 1. Ubica el apartado `languages`.
@@ -50,7 +50,7 @@ Con esto se publicará tu repositorio y en esa dirección podrás revisar las ac
 
 1. Ubica el apartado `interests`.
 2. Agrega un soft skill en cada `item`.
-  
+
 Los Soft Skills son competencias o habilidades sociales que son fundamentales para relacionarse con otras personas ya sea en la vida diaria o en el trabajo, como por ejemplo la comunicación, el trabajo en equipo, adaptabilidad, creatividad, pensamiento creativo, solución de problemas, confianza, administración del tiempo, personas o tareas, colaboración, etc.
 
 Estas son algunas de las soft skills que más valoran los empleadores:

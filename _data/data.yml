@@ -65,13 +65,13 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person passionate about technology, I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of society. Currently,
+    I am a person passionate about technology, I love learning about programming and improving my work through the use of best practices and logical thinking. I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. My biggest passion is technology, which I think can help us all to become a better person, friend, worker, and a productive member of society.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Ruby on Rails Web Developer
     university: Brightcoders Academy (Mexico)
-    time: 2021 March - current
+    time: 2021 March - 2021 July
     details: |
       Expert in the use of the Ruby programming language and the Ruby On Rails framework creating monolithic applications and APIs, teamwork, good practices with Git and GitHub.
 
@@ -89,29 +89,65 @@ educationcomplete:
 
         - Web development
         - Mobile development
+        - Algorithm development
         - Html, Css and Javascript
         - Python and Django
         - Java
 
-  - degree: professional technician in construction project development
+  - degree: Graphic arts assistant
+    university: System Center (Colombia)
+    time: 2008 - 2009
+    details: |
+      Design, graphic and audiovisual production, quality, finishes, dispatches, review of forms, warehouse reports, warehouse, inventory of supplies and plate file.
+
+        - Graphic Designer
+        - Audiovisual development
+        - Creation of corporate identity
+        - Design of service portfolios
+
+  - degree: Professional technician in construction project development
     university: SENA (Colombia)
     time: 2007 - 2008
     details: |
-      Develop architectural projects from planning and execution, having knowledge in 2D and 3D development.
+      Knowledge related to the area of visualization and graphic presentation of construction projects. Carry out design tasks and 3d modeling of possible options, which will allow to reach a result that meets the conditions set by the project.
 
+        - Architectural Designer
         - Preparation of plans
-        - Autocad 2D
-        - Sketchup 3D
-        - Vray Render
-        - Graphic Designer
+        - 2d project development
+        - 3d project development
+        - Image render
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: CTO
-    time: 2018 - Present
+  - role: Chief Techlonogy Officer
+    time: 2020 - Present
     company: Traitants, Colombia
     details: |
-      My job is to develop the company's technological product, this includes backend and frontend
+      My job is to develop the company's technological product, this includes backend and frontend.
+
+  - role: Project Developer
+    time: 2020 - Present
+    company: Iqonno, Colombia
+    details: |
+      Support in the architectural design process making plans and foot-realistic 3d models. Development of web pages and web applications. Support in the acquisition of clients.
+
+  - role: Senior Architectural Designer
+    time: 2007 - Present
+    company: Freelance, Colombia
+    details: |
+      Development of architectural projects, going through the stages of ideation, digitization, elaboration of architectural plans, until their photorealistic graphic representation and presentation of the projects.
+
+  - role: Infrastructure Assistant
+    time: 2010 - 2015
+    company: DOLMEN S.A. E.S.P, Colombia
+    details: |
+      Direction and execution of censuses, support in investment projects in different municipalities, monitoring of civil works, elaboration of architectural designs. Generation and execution of proposals focused on the automation of operational processes within the company's platform.
+
+  - role: Infrastructure Assistant
+    time: 2008 - 2009
+    company: Coomeva Administrative Services, Colombia
+    details: |
+      Carry out architectural surveys. Provide support in the development of architectural projects for the various headquarters of coomeva EPS and Financiera. Monitoring of the operational tasks carried out by the technical team. Monitoring of the operational work carried out by contractors.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -124,43 +160,43 @@ skills:
 
   toolset:
     - name: Html
-      level: 80%
+      level: 100%
 
     - name: Css
-      level: 40%
+      level: 60%
 
     - name: Javascript
-      level: 20%
+      level: 40%
 
     - name: Ruby
-      level: 20%
+      level: 100%
 
     - name: Ruby On Rails
-      level: 40%
+      level: 100%
 
     - name: Heroku
-      level: 80%
+      level: 100%
 
     - name: AWS
-      level: 20%
-
-    - name: Linux
       level: 40%
 
+    - name: Linux
+      level: 60%
+
     - name: Autocad
-      level: 80%
+      level: 100%
 
     - name: Sketchup
       level: 100%
 
     - name: Vray
-      level: 80%
+      level: 100%
 
     - name: Inkscape
       level: 100%
 
     - name: Gimp
-      level: 60%
+      level: 70%
 
 # NO MODIFICAR
 footer: >
