@@ -165,30 +165,6 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Html
-      level: 100%
-
-    - name: Css
-      level: 60%
-
-    - name: Javascript
-      level: 40%
-
-    - name: Ruby
-      level: 100%
-
-    - name: Ruby On Rails
-      level: 100%
-
-    - name: Heroku
-      level: 100%
-
-    - name: AWS
-      level: 40%
-
-    - name: Linux
-      level: 60%
-
     - name: Autocad
       level: 100%
 
@@ -201,8 +177,47 @@ skills:
     - name: Inkscape
       level: 100%
 
+    - name: Html
+      level: 100%
+
+    - name: Ruby
+      level: 80%
+
+    - name: Ruby On Rails
+      level: 80%
+
+    - name: Heroku
+      level: 80%
+
+    - name: Git
+      level: 80%
+
+    - name: Github
+      level: 80%
+
+    - name: Gitlab
+      level: 80%
+
+    - name: Bash/Shell
+      level: 80%
+
+    - name: Css
+      level: 60%
+
+    - name: Linux
+      level: 60%
+
     - name: Gimp
-      level: 70%
+      level: 60%
+
+    - name: Javascript
+      level: 40%
+
+    - name: PostgreSQL
+      level: 40%
+
+    - name: AWS
+      level: 40%
 
 # NO MODIFICAR
 footer: >
